@@ -137,3 +137,5 @@ if __name__ == "__main__":
 	main()
 
 author_name = 'Abdulsamad Abdulsalam'
+
+appreciation = 'Thank You Udacity'
